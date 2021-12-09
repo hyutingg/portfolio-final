@@ -565,8 +565,9 @@ input[type=submit] {
         scroll-behavior: auto; /* Removes scroll animation */
     }
     .parallax {
-      background-image: url(../images/stars.png);
+      background-image: url(../images/banner2.png);
     }
+
     .skip a{
       background: white;
       left: 0;
